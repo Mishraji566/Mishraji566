@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Core Java
 - 📫 How to reach me Mishrapraveen561@gmail.com
-- 🌐 Linkedin Profile linkedin.com/in/mishraji566
+- 🌐 <div align="center">
+<a href="https://www.linkedin.com/in/mishraji566/"><strong>Linkedin</strong></a>
 
 <!---
 Mishraji566/Mishraji566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
