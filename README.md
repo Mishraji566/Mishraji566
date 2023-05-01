@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mishraji566
 - 👀 I’m interested in Softwaer Devlepment
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Core Java
 - 📫 How to reach me Mishrapraveen561@gmail.com
 
 
